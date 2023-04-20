@@ -1,0 +1,4 @@
+spec: .gear/kakoune.spec
+#tar: .
+tar: v@version@:.
+copy?: .gear/*.patch
